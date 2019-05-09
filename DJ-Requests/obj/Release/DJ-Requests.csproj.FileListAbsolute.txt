@@ -1,0 +1,15 @@
+D:\Programming\DJ-Requests\DJ-Requests\bin\Release\DJ-Requests.dll.config
+D:\Programming\DJ-Requests\DJ-Requests\bin\Release\DJ-Requests.dll
+D:\Programming\DJ-Requests\DJ-Requests\bin\Release\DJ-Requests.pdb
+D:\Programming\DJ-Requests\DJ-Requests\bin\Release\AdiIRCAPIv2.dll
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ_Requests.About.resources
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ_Requests.DJCon.resources
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ_Requests.Properties.Resources.resources
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ_Requests.Temporary.resources
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ_Requests.UserRequest.resources
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.csproj.GenerateResource.cache
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.csproj.CoreCompileInputs.cache
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.csproj.CopyComplete
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.dll
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.pdb
+D:\Programming\DJ-Requests\DJ-Requests\obj\Release\DJ-Requests.csprojAssemblyReference.cache
